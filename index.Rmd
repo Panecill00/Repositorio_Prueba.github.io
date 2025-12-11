@@ -4,7 +4,7 @@ title: |
   ![](/cloud/project/proyecto2/Logo_UCO.png){width=2in}  
   "El chocolate"
 author: "MVAP, MVAP2, MVAP3"
-date: "`r Sys.Date()`"
+# date: "`r Sys.Date()`"
 output:
   github_document:
     html_preview: false

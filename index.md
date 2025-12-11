@@ -3,7 +3,6 @@
 
 ================
 MVAP, MVAP2, MVAP3
-2025-12-11
 
 <!-- Antes de comenzar !!!
 debes crear el archivo con las referencias de R y los paquetes que vayas a utilizar.  
